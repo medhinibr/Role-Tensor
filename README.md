@@ -4,4 +4,7 @@
 
 > **Intelligent Resume Builder with ATS Scoring and Role Recommendation**  
 > *A Zero-Cost, Privacy-First Architecture for Career Acceleration.*
-## 📖 Overview
+
+
+## Overview
+**Role Tensor** is a web-based intelligent resume analysis system designed to democratize access to career tools. It assists users in creating **ATS-optimized resumes**, computing transparent **compatibility scores**, and generating automated **job role recommendations**.
