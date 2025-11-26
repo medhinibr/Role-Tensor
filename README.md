@@ -11,6 +11,6 @@
 
 Unlike commercial alternatives, Role Tensor leverages **deterministic Natural Language Processing (NLP)** and rule-based algorithms to ensure fully explainable scoring without black-box magic. The system is built on a **Zero-Cost Architecture**, utilizing free-tier cloud services and local computation to provide enterprise-grade features for free.
 
----
 
 ## Key Features
+### 1. Intelligent Resume Builder
