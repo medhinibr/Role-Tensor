@@ -23,3 +23,4 @@ Unlike commercial alternatives, Role Tensor leverages **deterministic Natural La
 We don't just give you a number; we tell you *why*.
 - **Score (0-100):** Normalized compatibility index.
 - **Weighted Rubric:**
+ - Skill Coverage: **30%**
