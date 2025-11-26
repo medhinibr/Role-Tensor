@@ -8,3 +8,5 @@
 
 ## Overview
 **Role Tensor** is a web-based intelligent resume analysis system designed to democratize access to career tools. It assists users in creating **ATS-optimized resumes**, computing transparent **compatibility scores**, and generating automated **job role recommendations**.
+
+Unlike commercial alternatives, Role Tensor leverages **deterministic Natural Language Processing (NLP)** and rule-based algorithms to ensure fully explainable scoring without black-box magic. The system is built on a **Zero-Cost Architecture**, utilizing free-tier cloud services and local computation to provide enterprise-grade features for free.
