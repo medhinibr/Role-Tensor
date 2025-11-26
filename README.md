@@ -4,3 +4,4 @@
 
 > **Intelligent Resume Builder with ATS Scoring and Role Recommendation**  
 > *A Zero-Cost, Privacy-First Architecture for Career Acceleration.*
+## 📖 Overview
