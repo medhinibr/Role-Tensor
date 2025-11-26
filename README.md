@@ -17,3 +17,4 @@ Unlike commercial alternatives, Role Tensor leverages **deterministic Natural La
 - **Section-Based Editor:** Modular editing for Summary, Skills, Experience, Education, and Projects.
 - **Dual Layouts:** Switch between specific "ATS-Clean" layouts and "Visual" templates instantly.
 - **Local & Cloud Sync:** Autosave functionality using LocalStorage and Firebase Firestore.
+- **PDF & JSON Export:** Download standard PDFs or portable JSON data.
