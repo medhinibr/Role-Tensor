@@ -20,3 +20,4 @@ Unlike commercial alternatives, Role Tensor leverages **deterministic Natural La
 - **PDF & JSON Export:** Download standard PDFs or portable JSON data.
 
 ### 2. Transparent ATS Scoring Engine
+We don't just give you a number; we tell you *why*.
