@@ -14,3 +14,4 @@ Unlike commercial alternatives, Role Tensor leverages **deterministic Natural La
 
 ## Key Features
 ### 1. Intelligent Resume Builder
+- **Section-Based Editor:** Modular editing for Summary, Skills, Experience, Education, and Projects.
